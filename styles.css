@@ -1,0 +1,13 @@
+div {
+    height: 300px;
+    
+    color:white;
+    border: 2px  solid red;
+  
+}
+
+.big-img{
+    background: url("/istockphoto-1348212541-2048x2048.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
